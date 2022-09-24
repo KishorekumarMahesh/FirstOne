@@ -1,0 +1,6 @@
+English = 96
+Tamil = 86
+maths = 80
+science = 99
+social science = 100
+
